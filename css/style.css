@@ -23,7 +23,7 @@ body {
 .header {
   height: 95vh;
   background-image: linear-gradient(to right bottom, #7ed56fcc, #27b485cc),
-    url(/img/hero.jpg);
+    url(../img/hero.jpg);
 
   background-size: cover;
   background-position: top;
@@ -47,7 +47,6 @@ body {
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
-  /*PLAY AROUND WITH VLAUES FOR BETTER ASTHEIC */
   text-align: center; /*putting btn in center without using positioning */
 }
 
